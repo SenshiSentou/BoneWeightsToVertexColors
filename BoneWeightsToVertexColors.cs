@@ -4,7 +4,7 @@ using UnityEngine.Rendering;
 using UnityEngine.U2D;
 using Unity.Collections;
 
-namespace Ares.Examples {
+namespace BlueTomato {
     public class BoneWeightsToVertexColors : MonoBehaviour {
         enum AutoRunMoment { Never, Awake, Start}
 
